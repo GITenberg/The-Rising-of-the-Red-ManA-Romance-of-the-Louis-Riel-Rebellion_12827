@@ -1,0 +1,26 @@
+_repo: The-Rising-of-the-Red-ManA-Romance-of-the-Louis-Riel-Rebellion_12827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mackie, John
+    birthdate: 1862
+    deathdate: 1939
+    gutenberg_agent_id: '4647'
+    url: http://www.gutenberg.org/2009/agents/4647
+description: ''
+gutenberg_issued: '2004-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Riel Rebellion, 1885 -- Fiction'
+- GITenberg
+title: 'The Rising of the Red Man
+
+  A Romance of the Louis Riel Rebellion'
+url: http://www.gutenberg.org/ebooks/12827
